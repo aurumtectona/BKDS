@@ -15,6 +15,7 @@ Penugasan Minggu 1:
 5.) Membersihkan Data
 
 
+
 Penugasan Minggu 2:
 
 1.) Kontruksi Data
