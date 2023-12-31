@@ -13,3 +13,12 @@ Penugasan Minggu 1:
 4.) Menentukan Object Data
 
 5.) Membersihkan Data
+
+
+Penugasan Minggu 2:
+
+1.) Kontruksi Data
+
+2.) Membangun Model
+
+3.) Evaluasi Model dan Kesimpulan
