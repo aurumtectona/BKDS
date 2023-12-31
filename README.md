@@ -2,7 +2,7 @@ Repository ini berisi penugasan tiap minggu dari Bimbingan Karir Data Science
 
 Dataset yang digunakan dapat diakses pada: https://archive.ics.uci.edu/dataset/45/heart+disease (hungarian data)
 
-Penugasan Minggu 1:
+# Penugasan Minggu 1:
 
 1.) Pengumpulan Data
 
@@ -14,9 +14,7 @@ Penugasan Minggu 1:
 
 5.) Membersihkan Data
 
-
-
-Penugasan Minggu 2:
+# Penugasan Minggu 2:
 
 1.) Kontruksi Data
 
