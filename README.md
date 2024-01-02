@@ -21,3 +21,7 @@ Dataset yang digunakan dapat diakses pada: https://archive.ics.uci.edu/dataset/4
 2.) Membangun Model
 
 3.) Evaluasi Model dan Kesimpulan
+
+# Penugasan Minggu 3:
+
+1.) Deployment menggunakan streamlit
